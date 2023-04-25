@@ -1,4 +1,4 @@
-# shopifyGPT-backend
+# A GPT powered Shopify customer representative
 
 This repo is a GPT powered Shopify chat backend prototype. It uses Flask as a backend with a single endpoint, aimed to serve requests from in store chat widgets. The idea of the plugin is to have an easily pluggable chat widget on ANY store, stricly using the store URL as input.
 
