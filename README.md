@@ -22,4 +22,21 @@ This repo is a GPT powered Shopify chat backend prototype. It uses Flask as a ba
 - Improve Customer Rep agent through prompt engineering (tone, dealing with unrelated queries etc...)
 - Eventually directly plug into Shopify plugin for additional use cases (creating/managing/tracking orders...)
 - Generate recommendations using customer chat history
+- Dockerize, CI/CD...
+
+
+### Running the app
+
+Any recent version of Python would work. Dependencies:
+```
+pip install flask openai chromedb tiktoken pandas requests numpy
+```
+
+Running the app locally:
+```
+python app/app.py
+```
+
+
+
 
