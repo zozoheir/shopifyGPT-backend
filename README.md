@@ -29,7 +29,7 @@ This repo is a GPT powered Shopify chat backend prototype. It uses Flask as a ba
 
 Any recent version of Python would work. Dependencies:
 ```
-pip install flask openai chromedb tiktoken pandas requests numpy
+pip install flask langchain openai chromedb tiktoken pandas requests numpy
 ```
 
 Running the app locally:
